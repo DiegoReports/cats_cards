@@ -206,6 +206,7 @@
    white-space: nowrap;
    color: #fff;
    width: fit-content;
+   text-shadow: #000 2px 3px 2px;
 }
  .info .name, .info .location {
    text-transform: uppercase;
